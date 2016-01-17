@@ -1,0 +1,13 @@
+{
+  "name": "browserify-playground",
+  "version": "0.0.1",
+  "description": "Browserify playground",
+  "main": "app.js",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "*",
+    "grunt": "*",
+    "grunt-browserify": "*",
+    "uniq": "*"
+  }
+}
